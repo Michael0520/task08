@@ -3,7 +3,7 @@ body {
     background-color: #eee;
 }
 
-h1, p {
+h1, h2, p {
     /* css selector */
     text-align: center;
 }
@@ -20,4 +20,14 @@ h1 {
 
 #cover-block img {
     width: 100%;
+}
+
+#list {
+    width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
 }
