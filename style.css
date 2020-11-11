@@ -37,14 +37,14 @@ li {
     margin: 16px 0;
 }
 
-#long-title {
+#Mid-paragraph {
     width: 550px;
     margin: 0 auto 20px auto;
     line-height: 1.6;
     text-align: left;
 }
 
-#down-title {
+#Btm-paragraph {
     font-size: 1.17em;
     margin: 50px;
 }
