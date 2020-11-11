@@ -12,6 +12,11 @@ h1 {
     font-size: 2.5em;
 }
 
+h2 {
+    font-size: 1.17em;
+    margin: 50px;
+}
+
 #cover-block {
     margin: 0, 20px, 0, 20px;
     background-color: #fff;
@@ -30,4 +35,16 @@ h1 {
 
 li {
     margin: 16px 0;
+}
+
+#long-title {
+    width: 550px;
+    margin: 0 auto 20px auto;
+    line-height: 1.6;
+    text-align: left;
+}
+
+#down-title {
+    font-size: 1.17em;
+    margin: 50px;
 }
